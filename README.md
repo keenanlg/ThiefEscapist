@@ -1,4 +1,4 @@
-# cpsc4160
+# cpsc4160/cpsc4420
 Stores the code for our final project - Thief Escapist. A 2D side-scroller.
 
 EXTERNAL LIBRARIES NEEDED TO BE INSTALLED PRIOR TO LAUNCH:
